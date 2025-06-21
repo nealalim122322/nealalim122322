@@ -35,12 +35,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
           COMMIT_MESSAGE: "📊 Updated WakaTime stats"
-
-      # Commit and push if there are changes
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "🤖 Updated README with WakaTime stats"
-          git push
