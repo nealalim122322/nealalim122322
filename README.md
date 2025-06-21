@@ -132,7 +132,7 @@ const nealAlim = {
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
 
 </td>
 </tr>
@@ -197,6 +197,9 @@ const nealAlim = {
 ### 🗓️ Isometric Contribution Calendar
 
 <img src="https://github-readme-stats.vercel.app/api?username=nealalim122322&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Overall%20GitHub%20Activity" alt="GitHub Activity Overview" />
+
+### 📈 Alternative GitHub Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=nealalim122322&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats Alternative" />
 
 *3D Contribution Calendar will be generated automatically by GitHub Actions*
 
@@ -337,7 +340,10 @@ No Activity Tracked This Week
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&range=all_time" alt="All Time Coding Stats" />
 
-*Note: WakaTime stats require a public profile. If you see an error above, please make your WakaTime profile public in your [WakaTime settings](https://wakatime.com/settings/profile).*
+### 📊 Alternative WakaTime View
+[![wakatime](https://wakatime.com/badge/user/nealalim26.svg)](https://wakatime.com/@nealalim26)
+
+*Note: WakaTime stats require specific privacy settings. Enable "Display code time publicly", "Display languages publicly", "Display editors publicly" in your [WakaTime settings](https://wakatime.com/settings/profile).*
 
 ### ⚡ Quick Stats
 
