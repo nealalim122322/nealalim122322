@@ -318,7 +318,7 @@ No Activity Tracked This Week
 
 ### 📈 Coding Patterns & Insights
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&range=all_time" alt="All Time Coding Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&range=all_time" alt="All Time Coding Stats" />
 
 *Note: WakaTime stats require a public profile. If you see an error above, please make your WakaTime profile public in your [WakaTime settings](https://wakatime.com/settings/profile).*
 
