@@ -35,3 +35,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
           COMMIT_MESSAGE: "📊 Updated WakaTime stats"
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
