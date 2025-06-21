@@ -192,7 +192,13 @@ const nealAlim = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nealalim122322&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF)
 
 ### 📊 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/nealalim122322/nealalim122322/main/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nealalim122322/nealalim122322/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nealalim122322/nealalim122322/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nealalim122322/nealalim122322/main/github-contribution-grid-snake.svg">
+</picture>
+
+*Snake animation will appear after the workflow generates the files*
 
 ### 🗓️ GitHub Activity Overview
 
@@ -347,15 +353,30 @@ No Activity Tracked This Week
 
 ### 📈 Coding Patterns & Insights
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&range=all_time" alt="All Time Coding Stats" />
+<table>
+<tr>
+<td width="50%">
 
-### 📊 Alternative WakaTime View
-[![wakatime](https://wakatime.com/badge/user/nealalim26.svg)](https://wakatime.com/@nealalim26)
+**🔥 WakaTime Stats**
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="WakaTime Stats" />
 
-### 🕒 WakaTime Profile Link
+</td>
+<td width="50%">
+
+**⚡ Alternative View**
+[![wakatime](https://wakatime.com/badge/user/nealalim26.svg?style=for-the-badge)](https://wakatime.com/@nealalim26)
+
+**🎯 Quick Access**
 [![WakaTime Profile](https://img.shields.io/badge/WakaTime-Profile-blue?style=for-the-badge&logo=wakatime)](https://wakatime.com/@nealalim26)
 
-*Note: WakaTime stats require specific privacy settings. Enable "Display code time publicly", "Display languages publicly", "Display editors publicly" in your [WakaTime settings](https://wakatime.com/settings/profile).*
+**📈 Total Tracked**
+![Code Time](http://img.shields.io/badge/Code%20Time-Tracking%20Active-blue?style=for-the-badge&logo=wakatime)
+
+</td>
+</tr>
+</table>
+
+*📝 Note: If WakaTime stats show "User doesn't publicly share detailed code statistics", it means the API needs time to sync after enabling privacy settings. Your profile settings look correct! ✅*
 
 ### ⚡ Quick Stats
 
