@@ -7,10 +7,6 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
-  
-  # Run on push to main branch
-  push:
-    branches: [ main ]
 
 jobs:
   update-readme:
