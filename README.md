@@ -1,4 +1,8 @@
+<div align="center">
+
 # ✨ Welcome to My Digital Universe! ✨
+
+</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Neal+Alim!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Building+the+Future%2C+One+Line+at+a+Time!+%E2%9C%A8)
 
