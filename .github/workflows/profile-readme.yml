@@ -24,15 +24,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Update README with GitHub Activity
-      - name: Update README with GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updated GitHub activity in README'
-          MAX_LINES: 5
-
       # Update README with WakaTime Stats
       - name: Update README with WakaTime Stats
         uses: anmol098/waka-readme-stats@master
@@ -49,19 +40,11 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
 
-      # Update Spotify Now Playing
-      - name: Update Spotify Now Playing
-        uses: novatorem/novatorem@master
-        with:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
       # Commit and push if there are changes
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --staged --quiet || git commit -m "🤖 Updated README with dynamic content"
-          git push 
+          git diff --staged --quiet || git commit -m "🤖 Updated README with WakaTime stats"
+          git push
