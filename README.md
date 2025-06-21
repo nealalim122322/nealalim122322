@@ -247,16 +247,22 @@ const nealAlim = {
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4516 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+🌆 Daytime                6504 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                5556 commits        ████████░░░░░░░░░░░░░░░░░   33.16 % 
+🌙 Night                  181 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
