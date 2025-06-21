@@ -195,7 +195,9 @@ const nealAlim = {
 ![Snake animation](https://raw.githubusercontent.com/nealalim122322/nealalim122322/output/github-contribution-grid-snake-dark.svg)
 
 ### 🗓️ Isometric Contribution Calendar
-![3D Contribution Calendar](https://github.com/nealalim122322/nealalim122322/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Coding Activity Overview" />
+
+*3D Contribution Calendar will be generated automatically by GitHub Actions*
 
 </div>
 
@@ -205,36 +207,46 @@ const nealAlim = {
 
 <div align="center">
 
+### 🚀 My Top Repositories
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Profile Repository" />
+
+### 📂 Project Categories
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🚀 Project Alpha
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=project-alpha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/project-alpha)
-
-</td>
-<td width="50%">
-
-### 🌟 Project Beta  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=project-beta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/project-beta)
+**🌐 Web Development**
+- Next.js Applications
+- React Projects
+- TypeScript Solutions
+- Full-Stack Apps
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 💡 Innovation Hub
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=innovation-hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/innovation-hub)
+**🔧 Tools & Utilities**
+- Developer Tools
+- Automation Scripts
+- Configuration Files
+- Helper Libraries
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🔧 Dev Tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/dev-tools)
+**🎮 Creative Projects**
+- Game Development
+- Interactive Apps
+- Experimental Code
+- Learning Projects
 
 </td>
 </tr>
 </table>
+
+### 🔗 Explore My Work
+[![GitHub Repos](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nealalim122322?tab=repositories)
 
 </div>
 
@@ -267,7 +279,7 @@ No Activity Tracked This Week
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 **🚀 Favorite Languages**
 - TypeScript/JavaScript
@@ -276,7 +288,7 @@ No Activity Tracked This Week
 - Solidity
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 **⚡ Preferred Tools**
 - VS Code / Visual Studio
@@ -285,7 +297,7 @@ No Activity Tracked This Week
 - Vercel/AWS
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 **🎯 Current Focus**
 - Next.js Applications
@@ -303,9 +315,11 @@ No Activity Tracked This Week
 
 ### ⚡ Quick Stats
 
-![Coding Time](https://img.shields.io/badge/Weekly%20Coding%20Time-Variable-brightgreen?style=for-the-badge&logo=wakatime)
-![Languages](https://img.shields.io/badge/Active%20Languages-8+-blue?style=for-the-badge&logo=code)
-![Projects](https://img.shields.io/badge/Active%20Projects-Multiple-orange?style=for-the-badge&logo=github)
+<p align="center">
+<img src="https://img.shields.io/badge/Weekly%20Coding%20Time-Variable-brightgreen?style=for-the-badge&logo=wakatime" alt="Coding Time" />
+<img src="https://img.shields.io/badge/Active%20Languages-8+-blue?style=for-the-badge&logo=code" alt="Languages" />
+<img src="https://img.shields.io/badge/Active%20Projects-Multiple-orange?style=for-the-badge&logo=github" alt="Projects" />
+</p>
 
 </div>
 
@@ -319,19 +333,24 @@ No Activity Tracked This Week
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎧 Currently Playing on Spotify
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
+[![Spotify Profile](https://img.shields.io/badge/My%20Spotify%20Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎵 My Music Profile
-[![Spotify Profile](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+### 🎶 Music & Coding
+**Perfect Coding Vibes** 🎵
+- Lo-fi Hip Hop
+- Electronic/Synthwave  
+- Ambient & Chill
+- Focus Playlists
 
-### 📊 Spotify Stats
-![Spotify Stats](https://spotify-github-profile.vercel.app/api/view?uid=31iaipcm3ovjuoonauxdqhpkdoia&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)
+[![Listen on Spotify](https://img.shields.io/badge/Join%20My%20Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 </td>
 </tr>
