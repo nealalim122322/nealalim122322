@@ -233,8 +233,8 @@ Sunday                   ? commits           ████████░░░�
 ### 🎧 Currently Playing on Spotify
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
-### 🎵 Recent Activity
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31iaipcm3ovjuoonauxdqhpkdoia)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+### 🎵 My Music Profile
+[![Spotify Profile](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 </div>
 
