@@ -231,13 +231,10 @@ Sunday                   ? commits           ████████░░░�
 <div align="center">
 
 ### 🎧 Currently Playing on Spotify
-[![Spotify](https://spotify-now-playing-nealalim122322.vercel.app/api/spotify-playing)](https://open.spotify.com/user/nealalim122322)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
-### 🎶 My Top Tracks This Week
-[![Top Tracks](https://spotify-github-profile.vercel.app/api/view?uid=nealalim122322&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff)](https://spotify-github-profile.vercel.app/api/view?uid=nealalim122322&redirect=true)
-
-### 🎵 Recently Played
-[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=nealalim122322&count=5&unique=true)](https://open.spotify.com/user/nealalim122322)
+### 🎵 Recent Activity
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31iaipcm3ovjuoonauxdqhpkdoia)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 </div>
 
