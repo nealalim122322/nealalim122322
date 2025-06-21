@@ -240,7 +240,11 @@ const nealAlim = {
 
 ---
 
-## ⏰ Weekly Development Breakdown
+## ⏰ Coding Analytics & Development Insights
+
+<div align="center">
+
+### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -258,6 +262,52 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+
+### 💻 Development Environment & Preferences
+
+<table>
+<tr>
+<td width="33%">
+
+**🚀 Favorite Languages**
+- TypeScript/JavaScript
+- Python
+- C#
+- Solidity
+
+</td>
+<td width="33%">
+
+**⚡ Preferred Tools**
+- VS Code / Visual Studio
+- Git & GitHub
+- Docker
+- Vercel/AWS
+
+</td>
+<td width="33%">
+
+**🎯 Current Focus**
+- Next.js Applications
+- AI/ML Integration
+- Web3 Development
+- Cloud Architecture
+
+</td>
+</tr>
+</table>
+
+### 📈 Coding Patterns & Insights
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&range=all_time" alt="All Time Coding Stats" />
+
+### ⚡ Quick Stats
+
+![Coding Time](https://img.shields.io/badge/Weekly%20Coding%20Time-Variable-brightgreen?style=for-the-badge&logo=wakatime)
+![Languages](https://img.shields.io/badge/Active%20Languages-8+-blue?style=for-the-badge&logo=code)
+![Projects](https://img.shields.io/badge/Active%20Projects-Multiple-orange?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
