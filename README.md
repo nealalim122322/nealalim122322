@@ -102,41 +102,106 @@ const nealAlim = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nealalim122322&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+### 🔥 GitHub Stats Overview
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nealalim122322&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nealalim122322&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealalim122322&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+### 💻 Language Distribution & Metrics
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealalim122322&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=nealalim122322" alt="Top Languages" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim122322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+
+</td>
+</tr>
+</table>
+
+### 📈 Advanced GitHub Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nealalim122322&theme=tokyonight" alt="Profile Summary" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nealalim122322&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nealalim122322&theme=tokyonight" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nealalim122322&theme=tokyonight" alt="Stats" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nealalim122322&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nealalim122322&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+### 🎖️ GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nealalim122322&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+### 🌟 Profile Badges
+![](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-red?style=for-the-badge)
+![](https://img.shields.io/badge/Living-Earth-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Insights
 
 <div align="center">
 
+### 🔥 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nealalim122322&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF)
 
+### 📊 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/nealalim122322/nealalim122322/output/github-contribution-grid-snake-dark.svg)
+
+### 🗓️ Isometric Contribution Calendar
+![3D Contribution Calendar](https://github.com/nealalim122322/nealalim122322/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects & Repositories
 
 <div align="center">
 
@@ -155,6 +220,20 @@ const nealAlim = {
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 💡 Innovation Hub
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=innovation-hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/innovation-hub)
+
+</td>
+<td width="50%">
+
+### 🔧 Dev Tools
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nealalim122322&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/nealalim122322/dev-tools)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -164,28 +243,49 @@ const nealAlim = {
 ## ⏰ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```txt
-From: 13 June 2025 - To: 20 June 2025
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-Total Time: 0 secs
+🔥 Editors: 
+No Activity Tracked This Week
 
-No activity tracked
+💻 Operating System: 
+No Activity Tracked This Week
 ```
+
 
 <!--END_SECTION:waka-->
 
 ---
 
-## 🎵 What I'm Listening To
+## 📱 Connect & Social Media
 
 <div align="center">
+
+### 🎵 What I'm Listening To
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎧 Currently Playing on Spotify
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
+</td>
+<td width="50%">
+
 ### 🎵 My Music Profile
 [![Spotify Profile](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+
+### 📊 Spotify Stats
+![Spotify Stats](https://spotify-github-profile.vercel.app/api/view?uid=31iaipcm3ovjuoonauxdqhpkdoia&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,6 +295,7 @@ No activity tracked
 
 <div align="center">
 
+### 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nealalim26)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nealalim26)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nealalim26)
@@ -202,6 +303,8 @@ No activity tracked
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://lebryne.com)
 
 ### 💌 Let's Build Something Amazing Together!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -212,11 +315,7 @@ No activity tracked
 ### 🎲 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Watch My Contributions Get Eaten!
-![Snake animation](https://raw.githubusercontent.com/nealalim122322/nealalim122322/output/github-contribution-grid-snake-dark.svg)
-
----
-
+### 📈 Profile Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=nealalim122322&color=00D9FF&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nealalim122322?label=Followers&style=for-the-badge&color=00D9FF)
 ![GitHub User's stars](https://img.shields.io/github/stars/nealalim122322?label=Stars&style=for-the-badge&color=00D9FF)
