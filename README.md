@@ -20,7 +20,7 @@ const nealAlim = {
     location: "🌍 Planet Earth",
     currentFocus: "Building amazing digital experiences",
     learning: ["Next.js", "TypeScript", "AI/ML", "Cloud Architecture"],
-    hobbies: ["🎵 Music", "📚 Reading", "🎮 Gaming", "🌱 Gardening"],
+    hobbies: ["🎵 Music", "📚 Reading", "🎮 Gaming"],
     motto: "Code with passion, create with purpose! 🚀"
 };
 ```
@@ -158,10 +158,12 @@ const nealAlim = {
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nealalim122322&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ### 🌟 Profile Badges
-![](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=nealalim122322&color=00D9FF&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/nealalim122322?label=Followers&style=for-the-badge&color=00D9FF)
+![GitHub User's stars](https://img.shields.io/github/stars/nealalim122322?label=Stars&style=for-the-badge&color=00D9FF)
 ![](https://img.shields.io/badge/Years%20of%20Coding-5+-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-red?style=for-the-badge)
-![](https://img.shields.io/badge/Living-Earth-success?style=for-the-badge)
+![](https://img.shields.io/badge/Living-Philippines-success?style=for-the-badge)
 
 </div>
 
@@ -379,30 +381,10 @@ No Activity Tracked This Week
 
 ### 🎵 What I'm Listening To
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 ### 🎧 Currently Playing on Spotify
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 [![Spotify Profile](https://img.shields.io/badge/My%20Spotify%20Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
-
-</td>
-<td width="50%" align="center">
-
-### 🎶 Music & Coding
-**Perfect Coding Vibes** 🎵
-- Lo-fi Hip Hop
-- Electronic/Synthwave  
-- Ambient & Chill
-- Focus Playlists
-
-[![Listen on Spotify](https://img.shields.io/badge/Join%20My%20Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -431,11 +413,6 @@ No Activity Tracked This Week
 
 ### 🎲 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=nealalim122322&color=00D9FF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/nealalim122322?label=Followers&style=for-the-badge&color=00D9FF)
-![GitHub User's stars](https://img.shields.io/github/stars/nealalim122322?label=Stars&style=for-the-badge&color=00D9FF)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
