@@ -86,172 +86,72 @@ const nealAlim = {
 
 ---
 
-## 📊 Skills & Proficiency
+## 💼 Skills & Expertise
 
 <div align="center">
 
-### 🎯 Technical Skills Progress
+### 🚀 **Core Technologies**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 **Frontend Development**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="360" height="20" fill="#00D9FF" rx="10">
-    <animate attributeName="width" values="0;360" dur="2s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="white" font-size="12" font-family="Arial">90%</text>
-</svg>
+```
+TypeScript/JavaScript  ████████████████████ 95%
+React/Next.js          ████████████████████ 90%
+HTML/CSS/Tailwind      ████████████████████ 90%
+Vue.js/Nuxt.js         ██████████████████   85%
+```
 
 **Backend Development**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="340" height="20" fill="#FF6B6B" rx="10">
-    <animate attributeName="width" values="0;340" dur="2.2s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="white" font-size="12" font-family="Arial">85%</text>
-</svg>
-
-**Database Management**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="320" height="20" fill="#4ECDC4" rx="10">
-    <animate attributeName="width" values="0;320" dur="2.4s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="white" font-size="12" font-family="Arial">80%</text>
-</svg>
-
-**DevOps & Cloud**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="300" height="20" fill="#FFE66D" rx="10">
-    <animate attributeName="width" values="0;300" dur="2.6s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="black" font-size="12" font-family="Arial">75%</text>
-</svg>
+```
+Node.js                ████████████████████ 90%
+Python                 ████████████████     80%
+C#/.NET                ███████████████      75%
+API Development        ████████████████████ 90%
+```
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-**TypeScript/JavaScript**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="380" height="20" fill="#F7DF1E" rx="10">
-    <animate attributeName="width" values="0;380" dur="1.8s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="black" font-size="12" font-family="Arial">95%</text>
-</svg>
+**Database & DevOps**
+```
+PostgreSQL/MySQL       ████████████████     80%
+MongoDB                ████████████████     80%
+Firebase/Supabase      ████████████████████ 85%
+Docker/AWS             ███████████████      75%
+```
 
-**React/Next.js**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="360" height="20" fill="#61DAFB" rx="10">
-    <animate attributeName="width" values="0;360" dur="2s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="black" font-size="12" font-family="Arial">90%</text>
-</svg>
-
-**Python**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="320" height="20" fill="#3776AB" rx="10">
-    <animate attributeName="width" values="0;320" dur="2.4s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="white" font-size="12" font-family="Arial">80%</text>
-</svg>
-
-**C#/.NET**
-<svg width="400" height="20">
-  <rect width="400" height="20" fill="#0D1117" rx="10"/>
-  <rect width="300" height="20" fill="#239120" rx="10">
-    <animate attributeName="width" values="0;300" dur="2.6s" fill="freeze"/>
-  </rect>
-  <text x="200" y="14" text-anchor="middle" fill="white" font-size="12" font-family="Arial">75%</text>
-</svg>
+**Learning & Growth**
+```
+AI/ML Integration      ████████████         60%
+Web3/Blockchain        ██████████████       70%
+Cloud Architecture     █████████████        65%
+Mobile Development     ████████████████     80%
+```
 
 </td>
 </tr>
 </table>
 
-### 📈 Learning Progress Indicators
+### 🎯 **Skill Levels**
 
-<svg width="800" height="100">
-  <defs>
-    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- AI/ML Progress -->
-  <text x="20" y="25" fill="white" font-size="14" font-family="Arial">🤖 AI/ML Integration</text>
-  <rect x="200" y="12" width="300" height="12" fill="#0D1117" rx="6"/>
-  <rect x="200" y="12" width="180" height="12" fill="url(#progressGrad)" rx="6">
-    <animate attributeName="width" values="0;180" dur="3s" fill="freeze"/>
-  </rect>
-  <text x="520" y="22" fill="#00D9FF" font-size="12" font-family="Arial">60%</text>
-  
-  <!-- Web3 Progress -->
-  <text x="20" y="50" fill="white" font-size="14" font-family="Arial">⛓️ Web3 Development</text>
-  <rect x="200" y="37" width="300" height="12" fill="#0D1117" rx="6"/>
-  <rect x="200" y="37" width="210" height="12" fill="url(#progressGrad)" rx="6">
-    <animate attributeName="width" values="0;210" dur="3.2s" fill="freeze"/>
-  </rect>
-  <text x="520" y="47" fill="#00D9FF" font-size="12" font-family="Arial">70%</text>
-  
-  <!-- Cloud Architecture -->
-  <text x="20" y="75" fill="white" font-size="14" font-family="Arial">☁️ Cloud Architecture</text>
-  <rect x="200" y="62" width="300" height="12" fill="#0D1117" rx="6"/>
-  <rect x="200" y="62" width="195" height="12" fill="url(#progressGrad)" rx="6">
-    <animate attributeName="width" values="0;195" dur="3.4s" fill="freeze"/>
-  </rect>
-  <text x="520" y="72" fill="#00D9FF" font-size="12" font-family="Arial">65%</text>
-</svg>
+| **Category** | **Proficiency** | **Experience** | **Projects** |
+|:---|:---:|:---:|:---:|
+| 🎨 **Frontend** | ![95%](https://img.shields.io/badge/95%25-Expert-00D9FF?style=flat-square) | 5+ years | 20+ |
+| ⚡ **Backend** | ![85%](https://img.shields.io/badge/85%25-Advanced-4CAF50?style=flat-square) | 4+ years | 15+ |
+| 🗄️ **Database** | ![80%](https://img.shields.io/badge/80%25-Advanced-4CAF50?style=flat-square) | 3+ years | 12+ |
+| ☁️ **DevOps** | ![75%](https://img.shields.io/badge/75%25-Intermediate-FF9800?style=flat-square) | 2+ years | 8+ |
+| 📱 **Mobile** | ![80%](https://img.shields.io/badge/80%25-Advanced-4CAF50?style=flat-square) | 3+ years | 10+ |
 
-### 🎯 Skill Radar Chart
+### 📊 **Technology Focus**
 
-<svg width="400" height="400" viewBox="0 0 400 400">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <!-- Grid Lines -->
-  <g stroke="#333" stroke-width="1" fill="none">
-    <circle cx="200" cy="200" r="50"/>
-    <circle cx="200" cy="200" r="100"/>
-    <circle cx="200" cy="200" r="150"/>
-    
-    <!-- Axes -->
-    <line x1="200" y1="50" x2="200" y2="350"/>
-    <line x1="50" y1="200" x2="350" y2="200"/>
-    <line x1="106.8" y1="106.8" x2="293.2" y2="293.2"/>
-    <line x1="293.2" y1="106.8" x2="106.8" y2="293.2"/>
-  </g>
-  
-  <!-- Skill Areas -->
-  <polygon points="200,70 270,130 270,200 200,350 130,270 130,130" 
-           fill="#00D9FF" fill-opacity="0.3" stroke="#00D9FF" stroke-width="2" filter="url(#glow)">
-    <animate attributeName="points" 
-             values="200,200 200,200 200,200 200,200 200,200 200,200;200,70 270,130 270,200 200,350 130,270 130,130" 
-             dur="3s" fill="freeze"/>
-  </polygon>
-  
-  <!-- Labels -->
-  <text x="200" y="40" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">Frontend</text>
-  <text x="320" y="110" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">Backend</text>
-  <text x="320" y="210" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">Database</text>
-  <text x="200" y="380" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">DevOps</text>
-  <text x="80" y="280" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">Mobile</text>
-  <text x="80" y="140" text-anchor="middle" fill="#00D9FF" font-size="12" font-family="Arial">Design</text>
-</svg>
+<p align="center">
+<img src="https://img.shields.io/badge/Primary-TypeScript%20%7C%20React%20%7C%20Next.js-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Secondary-Python%20%7C%20Node.js%20%7C%20C%23-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-AI%2FML%20%7C%20Web3%20%7C%20Cloud-FF9800?style=for-the-badge" />
+</p>
 
 </div>
 
